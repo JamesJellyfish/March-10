@@ -1,0 +1,5 @@
+﻿  Game.cpp
+D:\School\March-6\SpriteLib3.0-ExampleProject\Game.cpp(118,21): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+D:\School\March-6\SpriteLib3.0-ExampleProject\Game.cpp(286,14): warning C4553:  '==': result of expression not used; did you intend '='?
+D:\School\March-6\SpriteLib3.0-ExampleProject\Game.cpp(629,48): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+  SpriteLib3.0-ExampleProject.vcxproj -> D:\School\March-6\x64\Debug\SpriteLib3.0-ExampleProject.exe
